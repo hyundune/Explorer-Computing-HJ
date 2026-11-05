@@ -24,8 +24,9 @@ st.write("앞으로 다양한 활동을 진행하면서 실력을 키우고 싶�
 st.caption("제가 좋아하는 파이썬 코드 예시")
 
 st.code(
-    """msg1 = "Hello "
-    msg2 = " World!"
+    """
+    msg1 = "Hello "
+    msg2 = "World!"
     msg = msg1 + msg2
     print(msg)""",
     language="python"
