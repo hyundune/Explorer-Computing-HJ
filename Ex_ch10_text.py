@@ -25,11 +25,10 @@ st.caption("제가 좋아하는 파이썬 코드 예시")
 
 st.code(
     """
-    msg1 = "Hello "
-    msg2 = "World!"
-    msg = msg1 + msg2
-    print(msg)""",
-    language="python"
+msg1 = "Hello "
+msg2 = "World!"
+msg = msg1 + msg2
+print(msg)""", language="python"
 )
 
 st.caption("Convolution")
