@@ -1,4 +1,3 @@
-%%writefile Ex_ch10_intro.py
 import streamlit as st
 
 st.title("나의 소개 페이지")
