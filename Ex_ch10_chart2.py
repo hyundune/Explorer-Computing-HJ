@@ -36,7 +36,7 @@ tooltip = {
 view_state = pdk.ViewState(
     latitude=43.0618,
     longitude=141.3545,
-    zoom=4,
+    zoom=4.5,
     pitch=0
 )
 
